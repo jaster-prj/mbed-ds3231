@@ -1,6 +1,6 @@
 {
   "name": "DS3231",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "MBED OS Library for interacting with \"DS3231\" RTC",
   "keywords": "ds3231, mbed os",
   "repository":
